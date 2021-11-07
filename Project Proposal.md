@@ -13,4 +13,3 @@ The data for this project will be read into a CSV file  using SQL (Find the data
 - sklearn
 - seaborn
 - matplotlib
-- sqlalchemy
