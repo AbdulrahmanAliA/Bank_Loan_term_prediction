@@ -43,7 +43,7 @@ Best Algorithm was XGBoost with testing score 0.8812.
 ## Communication
 The project process and result has presented. To see the presentation slides click [here](https://github.com/AbdulrahmanAliA/Bank_Loan_term_prediction/blob/main/Bank_loan_term_prediction.pdf).
 #
-[Project Proposal](Project_Proposal.mdd)
+[Project Proposal](Project_Proposal.md)
 
 [Project MVP](Bank_Loan_Prediction_MVP.md)
 
